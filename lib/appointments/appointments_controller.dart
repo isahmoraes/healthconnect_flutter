@@ -1,0 +1,3 @@
+Class AppointmentsController extends Getx{
+  
+}
